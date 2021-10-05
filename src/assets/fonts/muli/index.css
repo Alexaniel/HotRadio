@@ -1,0 +1,18 @@
+@font-face {
+  font-family: muli_medium;
+  src: url(./Muli-Medium.ttf);
+  font-weight: medium;
+  font-style: normal;
+}
+@font-face {
+  font-family: muli_light;
+  src: url(./Muli-Light.ttf) ;
+}
+@font-face {
+  font-family: muli_bold;
+  src: url(./Muli-Bold.ttf);
+}
+@font-face {
+  font-family: muli_black;
+  src: url(./Muli-Black.ttf);
+}
